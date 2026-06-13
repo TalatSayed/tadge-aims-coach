@@ -80,11 +80,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Chetan Tadge Coaching Centre — IIT-JEE & MHT-CET Coaching in Pune" },
       { name: "description", content: "Premium coaching for IIT-JEE Main, Advanced, MHT-CET & Foundation in Pune. Experienced faculty, conceptual teaching, personalized guidance. ⭐ 5.0 rating." },
       { name: "author", content: "Chetan Tadge Coaching Centre" },
-      { property: "og:title", content: "Chetan Tadge Coaching Centre — IIT-JEE & MHT-CET Coaching" },
-      { property: "og:description", content: "Quality coaching for IIT-JEE, MHT-CET and Foundation in Pune." },
+      { property: "og:title", content: "Chetan Tadge Coaching Centre — IIT-JEE & MHT-CET Coaching in Pune" },
+      { property: "og:description", content: "Premium coaching for IIT-JEE Main, Advanced, MHT-CET & Foundation in Pune. Experienced faculty, conceptual teaching, personalized guidance. ⭐ 5.0 rating." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Chetan Tadge Coaching Centre — IIT-JEE & MHT-CET Coaching in Pune" },
+      { name: "twitter:description", content: "Premium coaching for IIT-JEE Main, Advanced, MHT-CET & Foundation in Pune. Experienced faculty, conceptual teaching, personalized guidance. ⭐ 5.0 rating." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/362bf171-b1c0-4d05-a722-7057b7788043/id-preview-0684df69--4eb1fe44-a2d2-4af3-b2b2-845e2956d66a.lovable.app-1781333374551.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/362bf171-b1c0-4d05-a722-7057b7788043/id-preview-0684df69--4eb1fe44-a2d2-4af3-b2b2-845e2956d66a.lovable.app-1781333374551.png" },
     ],
     links: [
       {
