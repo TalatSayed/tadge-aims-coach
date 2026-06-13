@@ -104,7 +104,7 @@
   --shadow-elegant: 0 20px 60px -25px color-mix(in oklab, oklch(0.22 0.10 262) 35%, transparent);
   --shadow-card: 0 8px 30px -12px color-mix(in oklab, oklch(0.22 0.10 262) 18%, transparent);
   --shadow-gold: 0 10px 30px -10px color-mix(in oklab, oklch(0.78 0.14 80) 45%, transparent);
-  --font-display: "Playfair Display", Georgia, serif;
+  --font-display: "Plus Jakarta Sans", "Inter", system-ui, sans-serif;
   --font-sans: "Inter", system-ui, sans-serif;
   --transition-smooth: 0.4s cubic-bezier(0.22, 1, 0.36, 1);
   --chart-1: oklch(0.646 0.222 41.116);
